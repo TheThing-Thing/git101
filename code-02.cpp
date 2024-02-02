@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout << "Hello Git in C++" << endl;
+    cout << "Love  is the answer to life, the universe and everything." << endl;
     return 0;
 }
